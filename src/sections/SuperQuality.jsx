@@ -8,8 +8,7 @@ const SuperQuality = () => {
       className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"
     >
       <div className="flex flex-1 flex-col">
-        {" "}
-        {/* tirar o flex-col para ver como fica */}
+        
         <h2 className="font-palanquin capitalize text-4xl lg:max-w-lg font-bold">
           We Provide You
           <span className="text-coral-red"> Super </span>
